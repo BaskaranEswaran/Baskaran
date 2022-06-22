@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T16:00:01Z" name="Suite" finished-at="2022-06-15T16:00:27Z" duration-ms="26828">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T16:00:01Z" name="Test" finished-at="2022-06-15T16:00:27Z" duration-ms="26828">
+      <class name="org.testNG.Login">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:org.testNG.Login@7582ff54]" started-at="2022-06-15T16:00:01Z" name="browserLaunch" finished-at="2022-06-15T16:00:27Z" duration-ms="26690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="login()[pri:0, instance:org.testNG.Login@7582ff54]" started-at="2022-06-15T16:00:27Z" name="login" finished-at="2022-06-15T16:00:27Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- org.testNG.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
